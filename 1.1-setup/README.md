@@ -1,7 +1,5 @@
 # Exercise 1.1 - Check the Prerequisites
 
-**Read this in other languages**: ![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md).
-
 ## Your Lab Environment
 
 In this lab you work in a pre-configured lab environment. You will have access to the following hosts:
