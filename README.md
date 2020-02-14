@@ -1,4 +1,4 @@
-# Ansible Fundamentals Workshop 
+# ANSIBLE FUNDAMENTALS WORKSHOP 
 
 Ansible is a simple yet powerful IT automation engine for application deployment, configuration management, and orchestration that you can learn quickly.
 
